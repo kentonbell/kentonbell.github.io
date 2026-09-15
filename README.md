@@ -6,7 +6,7 @@
 
 A compact, responsive landing page that brings Kenton Bell's software, research, music, photography, and public profiles into one fast-loading destination.
 
-> **Research highlight:** the repository includes the IEEE AIxVR 2026 paper [*Handwriting Recognition in VR for Enhanced Learning and Immersive Interaction Experience*](images/GraduateThesisHandwritingRecognition.pdf). The paper acknowledges Kenton Bell and Matthew Froese for the virtual environment, which originated in a Spring 2025 virtual-painting project and provides a foundation for continued senior-project work in immersive drawing and learning.
+> **Research highlight:** the repository includes the IEEE AIxVR 2026 paper [*Handwriting Recognition in VR for Enhanced Learning and Immersive Interaction Experience*](https://kentonbell.github.io/images/GraduateThesisHandwritingRecognition.pdf). The paper acknowledges Kenton Bell and Matthew Froese for the virtual environment, which originated in a Spring 2025 virtual-painting project and provides a foundation for continued senior-project work in immersive drawing and learning.
 
 ![Black-and-white meadow portrait used as the site's visual identity](images/meadow-square-bw.jpg)
 
